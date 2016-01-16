@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.22504532087905715
+  lightness: 0.2288120606365055
+  rhythmicContrast: 0.006007372031682889
+  saturation: 0.041454575346236755
+cta: {}
+layout_spectrum: 0.0411528198328831
+name: ph/to
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.4258267886249997
